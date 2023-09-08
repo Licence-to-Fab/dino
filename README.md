@@ -1,2 +1,4 @@
-# dino
-Dynamometer run instructions, and collected run datasets for the Hydrogen Bike.
+# MIT EVT Dino(momyter)
+
+This repository contains information on how to run the MIT EVT Dynojet 250i Motorcycle Chassis Dynamometer, and includes a space to upload the dyno run files (raw data, and processed). It also includes tools to process the data, and additional safety information.
+
