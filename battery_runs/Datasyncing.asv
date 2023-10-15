@@ -1,0 +1,18 @@
+% Load your categorical data (6389x1)
+
+
+yourCategoricalData = km_hr();
+categoryToReplace = 'N/A'; % Define the category to replace (N/A in this case)
+modifiedData = yourCategoricalData; % Create a copy of the categorical data
+modifiedData(modifiedData == categoryToReplace) = '0'; % Find the indices where 'N/A' is present and replace with 0
+modifiedData = str2double(cellstr(modifiedData)); % If you want to change the data type to numeric, use the 'str2double' function
+if any(isnan(modifiedData))
+    warning('There are still NaN values in the data. Please review and handle them.');
+end
+km_hr_filtered = modifiedData;
+
+
+
+
+
+
