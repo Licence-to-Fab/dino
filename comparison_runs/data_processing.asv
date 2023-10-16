@@ -10,8 +10,10 @@ scaling_factor_rpm_kph = 2*pi/60/GR*r_wheel*3.6;
 %time scaling by looking at graphs
 batt_run_time_sync_factor = (26.448-12.3976)+(21.7179-19.85); %time to subtract from SEVCON to sync to Dyno
 
-batt_run_dyno_time_processed = batt_run_dyno_time;
-batt_run_sevcon_time_processed = batt_run_time-batt_run_time_sync_factor;
+%let's start with processing the battery run data (it's easier) 
+% hold on
+% plot(batt_run_dyno_time,batt_run_dyno_speed_kph)
+% plot(batt_run_time-batt_run_time_sync_factor,batt_run_motor_RPM.*scaling_factor_rpm_kph)
 
 %more complex time sync factors
 fc_run_p1_sevcon_dyno_ts = (18.2687-15.2); %syncs part 1 dyno to part 1 sevcon
@@ -25,8 +27,9 @@ fc_run_sevcon_time_combined = [fc_run_times_P1-fc_run_p1_sevcon_dyno_ts;fc_run_t
 fc_run_dyno_speed_combined = [fc_run_dyno_speed_kph_P1;fc_run_dyno_speed_kph_P2];
 fc_run_sevcon_RPM_combined = [fc_run_motor_RPM_P1;fc_run_motor_RPM_P2];
 
-fc_run_motor_torque_combined = [fc_run_motor_torque_P1;fc_run_motor_torque_P2];
-fc_run_batt_voltage_combined = [fc_run_batt_voltage_P1;fc_run_batt_voltage_P2];
-fc_run_batt_current_combined = [fc_run_batt_current_P1;fc_run_batt_current_P2];
+fc_run_motor_torque_combined = [fc_run_motor_]
+% hold on
+% plot(fc_run_sevcon_time_combined,fc_run_sevcon_RPM_combined.*scaling_factor_rpm_kph)
+% plot(fc_run_dyno_time_combined,fc_run_dyno_speed_combined)
 
 %plot cross datasets
