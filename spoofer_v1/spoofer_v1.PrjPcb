@@ -82,6 +82,347 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XSWRJHOY
 
+[Document3]
+DocumentPath=Job1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-spoofer_v1.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for spoofer_v1\BOM\Bill of Materials-spoofer_v1.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for spoofer.txt
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for spoofer_v1\Pick Place\Pick Place for spoofer.txt
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\..\..\AppData\Local\Temp\QjzFF14.xls
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.3
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.3
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\NC Drill\spoofer.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for spoofer_v1\NC Drill\spoofer.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM23
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GM24
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GML
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GML
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Free Documents\NC Drill\spoofer.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for spoofer_v1\NC Drill\spoofer.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Free Documents\Gerber\spoofer.REP
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for spoofer_v1\Gerber\spoofer.REP
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for Free Documents\ExportSTEP\spoofer.step
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for spoofer_v1\ExportSTEP\spoofer.step
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for Free Documents\NC Drill\spoofer.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for spoofer_v1\NC Drill\spoofer.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for Free Documents\Report Board Stack\spoofer.xls
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for spoofer_v1\Report Board Stack\spoofer.xls
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

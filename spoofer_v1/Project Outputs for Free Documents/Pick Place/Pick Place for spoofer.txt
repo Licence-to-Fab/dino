@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\Adi\GitHub\dino\spoofer_v1\Project Outputs for Free Documents\Pick Place\Pick Place for spoofer.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/11/23
+Time:       12:54
+Revision:   f4d5d88cf0ff6dbd05be72dd1838b45e164d2a99
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer       Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                                           
+R4         SG73S1JTTD2700F TopLayer    RESC1608X55X30ML20T10 1120.000      5050.000      180      ""                                                                                                    
+DS1        TLMO1100-GS08   TopLayer    VISH-TLMX1100-2_V     1260.000      5055.000      0        "Orange LED, 20 mA, 2.1 V, -40 to 100 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"                    
+U1         LM6211MF/NOPB   BottomLayer DBV0005A_L            2025.000      4785.000      180      "Low Noise, RRO Operational Amplifier with CMOS Input and 24V Operation, 5-pin SOT-23, Pb-Free"       
+R3         ERJ-2RKF1502X   BottomLayer FP-ERJ2R-MFG          2050.000      4900.000      0        "RES SMD 15K OHM 1% 1/10W 0402"                                                                       
+R2         ERA-3AEB103V    BottomLayer FP-ERA3A-IPC_C        2025.000      4665.000      180      "RES SMD 10K OHM 0.1% 1/10W 0603"                                                                     
+R1         ERJ-3EKF4702V   BottomLayer RESC1608X55X30NL15T15 1520.000      4790.000      270      "Chip Resistor, 47 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric), RoHS, Tape and Reel"     
+Q1         TN2510N8-G      BottomLayer FP-TN2510N8-G-IPC_C   1662.449      4819.055      0        "MOSFET N-CH 100V 730MA TO243AA"                                                                      
+J1         43045-0602      TopLayer    FP-43045-0602-MFG     2789.882      4795.000      90       "CONN HEADER R/A 6POS 3MM"                                                                            
+D1         BAT46W-7-F      BottomLayer DIOD-SOD-123-2_V      1700.000      4645.000      180      "Surface Mount Schottky Barrier Diode, 100 V, -55 to 125 degC, 2-Pin SOD123, RoHS, Tape and Reel"     
+K1         RT114012        TopLayer    FP-RT114012-MFG       1986.850      4795.000      0        "RELAY GEN PURPOSE SPDT 12A 12V"                                                                      
+P1         TSM-104-01-T-SH TopLayer    SMTC-TSM-104-01-X-SH  1262.687      4795.000      90       "0.025" SQ Post Header, Surface Mount, Horizontal, -55 to 105 degC, 2.54 mm Pitch, 4-Pin, Male, RoHS" 
